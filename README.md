@@ -5,7 +5,7 @@ Hi 👋 My name is Aldrin Joseph
 * ✉️  You can contact me at [aldrinjoseph7890@gmail.com](mailto:aldrinjoseph7890@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm gonna the most well known programmer in world !
+* ⚡  I'm gonna be the most well known programmer in world !
 
 ### Skills
 
