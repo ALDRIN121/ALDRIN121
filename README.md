@@ -3,7 +3,6 @@ Hi 👋 My name is Aldrin Joseph
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aldrinjoseph7890@gmail.com](mailto:aldrinjoseph7890@gmail.com)
-* 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 
 
