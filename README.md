@@ -2,11 +2,9 @@
 
 ### Senior AI Engineer · Building Agentic AI Systems & RAG Pipelines in Fintech
 
-- 🔭 Currently: Senior AI Engineer at **Pine Labs** (Bangalore), working on agentic AI and multi-agent orchestration for fintech products
-- 🧠 Previously built a 7-agent hierarchical Financial Intelligence Platform, a Text-to-SQL agent with human-in-the-loop approval, and an enterprise RAG platform serving 10,000+ users
+- 🔭 Currently: Senior AI Engineer, working on agentic AI and multi-agent orchestration for fintech products
 - 🧩 Open-source contributor to **LangChain**
 - 📜 Certified: **Anthropic Model Context Protocol (MCP)** · **OCI AI Foundations**
-- 🌱 Going deep on ML fundamentals — calculus, linear algebra, and backprop from first principles
 - 💬 Ask me about: multi-agent systems, RAG architecture, MCP servers, LLM observability & evals
 - 🌍 Based in India · ✉️ [aldrinjoseph7890@gmail.com](mailto:aldrinjoseph7890@gmail.com)
 - 🤝 Open to collaborating on interesting AI projects
@@ -44,14 +42,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALDRIN121&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALDRIN121&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</p>
 
 ---
 
