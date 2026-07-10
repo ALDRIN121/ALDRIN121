@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aldrin Joseph
 
-### Senior AI Engineer · Building Agentic AI Systems & RAG Pipelines in Fintech
+### Senior AI Engineer · Building Agentic AI Systems & RAG Pipelines in Production
 
 - 🔭 Currently: Senior AI Engineer, working on agentic AI and multi-agent orchestration for fintech products
 - 🧩 Open-source contributor to **LangChain**
